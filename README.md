@@ -41,7 +41,7 @@ The project demonstrates end-to-end **data cleaning, modeling, and visualization
 ---
 
 ## 📸 Dashboard Preview
-![Uploading image.png…]()
+
 
 
 
@@ -74,5 +74,6 @@ The project demonstrates end-to-end **data cleaning, modeling, and visualization
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
